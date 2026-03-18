@@ -1,0 +1,14 @@
+<svg width="1200" height="860" viewBox="0 0 1200 860" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="860" rx="42" fill="#102930"/>
+  <rect x="68" y="68" width="1064" height="724" rx="26" fill="#123C44" stroke="#3F7B80" stroke-width="4"/>
+  <rect x="126" y="146" width="392" height="240" rx="24" fill="#F4F1EA"/>
+  <rect x="560" y="146" width="512" height="114" rx="24" fill="#D97A43"/>
+  <rect x="560" y="286" width="512" height="100" rx="24" fill="#F7EFE5"/>
+  <rect x="126" y="438" width="946" height="218" rx="28" fill="#0D5660"/>
+  <circle cx="284" cy="266" r="62" fill="#D8E5E4"/>
+  <path d="M212 318L280 244L336 284L394 210L434 266" stroke="#0F5F66" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="816" y="214" text-anchor="middle" fill="#FFF9F2" font-family="Arial, sans-serif" font-size="38" font-weight="700">Discovery Project</text>
+  <text x="816" y="347" text-anchor="middle" fill="#162126" font-family="Arial, sans-serif" font-size="30" font-weight="700">Replace with a real screenshot, diagram, or demo image</text>
+  <text x="598" y="546" text-anchor="middle" fill="#FFF9F2" font-family="Arial, sans-serif" font-size="42" font-weight="700">Research • Build • Test • Explain</text>
+  <text x="600" y="742" text-anchor="middle" fill="#D8E5E4" font-family="Arial, sans-serif" font-size="30" font-weight="700">Use this space for your featured project visual</text>
+</svg>

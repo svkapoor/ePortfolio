@@ -1,0 +1,17 @@
+<svg width="1200" height="860" viewBox="0 0 1200 860" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="860" rx="42" fill="#F1EFE8"/>
+  <rect x="108" y="116" width="984" height="628" rx="34" fill="#162126"/>
+  <rect x="180" y="198" width="480" height="464" rx="24" fill="#0F5F66"/>
+  <rect x="714" y="214" width="214" height="80" rx="16" fill="#D97A43"/>
+  <rect x="714" y="330" width="236" height="80" rx="16" fill="#F7EFE5"/>
+  <rect x="714" y="446" width="188" height="80" rx="16" fill="#D8E5E4"/>
+  <circle cx="314" cy="334" r="64" fill="#F7EFE5"/>
+  <circle cx="522" cy="334" r="64" fill="#F3DBC8"/>
+  <circle cx="314" cy="532" r="64" fill="#DCE7F3"/>
+  <circle cx="522" cy="532" r="64" fill="#D97A43"/>
+  <path d="M314 334H522V532H314V334Z" stroke="#F1EFE8" stroke-width="10" stroke-dasharray="14 18"/>
+  <text x="823" y="264" text-anchor="middle" fill="#162126" font-family="Arial, sans-serif" font-size="30" font-weight="700">Embedded Build</text>
+  <text x="832" y="380" text-anchor="middle" fill="#162126" font-family="Arial, sans-serif" font-size="28" font-weight="700">Sensors + Code</text>
+  <text x="808" y="496" text-anchor="middle" fill="#162126" font-family="Arial, sans-serif" font-size="28" font-weight="700">Hardware Logic</text>
+  <text x="600" y="794" text-anchor="middle" fill="#51626B" font-family="Arial, sans-serif" font-size="40" font-weight="700">Replace with your embedded systems project image</text>
+</svg>

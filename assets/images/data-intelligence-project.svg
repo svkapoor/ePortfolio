@@ -1,0 +1,13 @@
+<svg width="1200" height="860" viewBox="0 0 1200 860" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="860" rx="42" fill="#F7F3EA"/>
+  <rect x="124" y="124" width="952" height="612" rx="32" fill="#14272C"/>
+  <path d="M232 598C304.667 520.667 366.667 480.333 418 477C469.333 473.667 516.667 519 560 520C603.333 521 646.667 473 690 470C733.333 467 780.667 504 832 474C883.333 444 930.667 371.667 974 257" stroke="#D97A43" stroke-width="18" stroke-linecap="round"/>
+  <path d="M232 642H972" stroke="#4D6970" stroke-width="4"/>
+  <path d="M232 642V226" stroke="#4D6970" stroke-width="4"/>
+  <circle cx="558" cy="520" r="24" fill="#D8E5E4"/>
+  <circle cx="690" cy="470" r="24" fill="#D8E5E4"/>
+  <circle cx="832" cy="474" r="24" fill="#D8E5E4"/>
+  <rect x="202" y="178" width="252" height="82" rx="20" fill="#F7EFE5"/>
+  <text x="328" y="228" text-anchor="middle" fill="#162126" font-family="Arial, sans-serif" font-size="28" font-weight="700">Data Insights</text>
+  <text x="600" y="794" text-anchor="middle" fill="#51626B" font-family="Arial, sans-serif" font-size="40" font-weight="700">Replace with your data, AI, or analysis project visual</text>
+</svg>

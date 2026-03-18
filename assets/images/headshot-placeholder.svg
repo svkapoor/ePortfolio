@@ -1,0 +1,10 @@
+<svg width="1200" height="1400" viewBox="0 0 1200 1400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1400" rx="48" fill="#F7EFE5"/>
+  <rect x="70" y="70" width="1060" height="1260" rx="36" fill="#FFF9F2" stroke="#D8C9B7" stroke-width="4"/>
+  <circle cx="600" cy="470" r="210" fill="#D8E5E4"/>
+  <path d="M300 1115C300 925.457 453.457 772 643 772H658C847.543 772 1001 925.457 1001 1115V1170H300V1115Z" fill="#0F5F66"/>
+  <circle cx="600" cy="420" r="148" fill="#F4C8A8"/>
+  <path d="M455 387C455 308.605 518.605 245 597 245H603C681.395 245 745 308.605 745 387V440H455V387Z" fill="#162126"/>
+  <path d="M397 1185H807" stroke="#D97A43" stroke-width="18" stroke-linecap="round"/>
+  <text x="600" y="1260" text-anchor="middle" fill="#51626B" font-family="Arial, sans-serif" font-size="44" font-weight="700">Replace with professional headshot</text>
+</svg>
